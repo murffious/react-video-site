@@ -28,6 +28,8 @@ body {
 
 .fa-cloud-upload {
   padding-left: 80%;
+  font-size: 1.3rem;
+  padding-top:4px;
 }
 .search-wrapper {
  width: 100vw;
