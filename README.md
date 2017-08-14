@@ -3,7 +3,6 @@
 Semi functional YouTube clone <br/>
  Comments section coming soon!
 
-
 ### Tech <br/>
 react <br/>
 youtube-api-search 
