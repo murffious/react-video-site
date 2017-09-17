@@ -12,7 +12,6 @@ body {
   color: #aaa;
   
 }
-
 .search-bar .fa-search { 
   position: absolute;
   top: 6px;
@@ -50,7 +49,6 @@ body {
 .video-detail {
   padding-top: 10px;
   padding-left: 10%;
-  
 }
 .video-detail .details {
   margin-top: 10px;
